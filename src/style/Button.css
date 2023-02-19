@@ -1,0 +1,52 @@
+.btn {
+  position: absolute;
+}
+.btn-login {
+  background: #f9c06a;
+  width: 300px;
+  height: 30px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 29.33px;
+  border: none;
+  color: '#603809';
+  border-radius: 4px;
+}
+
+.btn-warning {
+  background: #f9c06a;
+  width: 134;
+  height: 48px;
+  padding: 15px 22px;
+  border-radius: 24px;
+  box-shadow: 0px 6px 12px rgba(249, 192, 106, 0.22);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18.66px;
+  border: none;
+  text-decoration: none;
+}
+
+.btn-Suscribe {
+  background: #f9c06a;
+  width: 137;
+  height: 66px;
+  padding: 15px 22px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 29.33px;
+  border: none;
+  color: '#603809';
+  border-radius: 4px;
+}
+
+.img {
+  text-align: center;
+}
+
+a:hover {
+  font-size: 20px;
+}
